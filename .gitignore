@@ -1,0 +1,49 @@
+# Visual Studio IDE
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Rider IDE
+.idea/
+
+# Backup & log files
+*.log
+*.tlog
+*.tmp
+
+# Auto-generated files
+*.generated.cs
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.idb
+*.aps
+*.ncb
+*.opendb
+*.res
+*.tlh
+*.tli
+
+# Other
+*.vsidx
+*.cache
+*.db
+*.db-shm
+*.db-wal
