@@ -1,0 +1,8 @@
+D:\university\course_1\programming\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\university\course_1\programming\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\university\course_1\programming\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\university\course_1\programming\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\university\course_1\programming\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\university\course_1\programming\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\university\course_1\programming\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\university\course_1\programming\Lab4\Lab4\obj\Debug\Lab4.exe.config
